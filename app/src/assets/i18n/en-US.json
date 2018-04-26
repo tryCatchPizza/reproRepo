@@ -1,0 +1,85 @@
+﻿{
+    "SAVE": "Save",
+    "CANCEL": "Cancel",
+    "DELETE": "Delete",
+    "ENGLISH": "English",
+    "DUTCH": "Dutch",
+    "SEARCH": "Search",
+    "NOT_SELECTED": "(Not selected)",
+    "ADD": "Add",
+    "EDIT": "Edit",
+    "SET": "Set",
+    "EXPORT": "Export",
+    "PRINT": "Print",
+    "IMPORT_TOOLTIP": "Import",
+    "ACCEPT": "Accept",
+    "BACK": "Back",
+    "NEXT": "Next",
+    "FINISH": "Finish",
+    "CLOSE": "Close",
+    "APPLY": "Apply",
+    "SELECT":  "Select",
+    "LOG_IN": {
+        "LOG_IN": "LOG IN",
+        "INCORECT_USERNAME_OR_PASSWORD": "Incorect user name or password"
+    },
+
+  "CONTENT": {
+    "LOGIN": "Login",
+    "PUBLIC_MENU_ITEM": "Public menu",
+    "PUBLIC_MENU_SUBITEM1": "Public menu subitem 1",
+    "PUBLIC_MENU_SUBITEM2": "Public menu subitem 2"
+  },
+
+  "HEADER": {
+    "CHANGE_LANGUAGE": "Change Language",
+    "CHANGE_PASSWORD": "Change Password",
+    "LOG_OUT": "Log Out",
+    "SELECT_LANGUAGE": "Select Language:",
+    "CHANGE_PROFILE": "Change profile",
+    "CHANGE_APP_MODE": "Change mode",
+    "SELECT_APP_MODE": "Select mode",
+    "APP_MODE_PLATFORM": "Platform",
+    "APP_MODE_AUCTION": "Auction",
+    "APP_MODE_BUYER": "Buyer",
+    "APP_MODE_SUPPLIER": "Supplier",
+    "LOGIN": "Login"
+  },
+
+  "AUCTION": {
+    "OVERVIEW": "Overview",
+    "USERS_ROLES_MANAGEMENT": "User & role management",
+    "AUCTION_MANAGEMENT": "Auction management",
+    "SUPPLIER_MANAGEMENT": "Supplier management",
+    "BUYER_MANAGEMENT": "Buyer management",
+    "CLOCK_MANAGEMENT": "Clock management",
+    "LOCATION_MANAGEMENT": "Location management",
+    "CATALOG_MANAGEMENT": "Catalog management",
+    "MOVING_CATALOGS": "Moving catalogs in relation to locations",
+    "AUCTION_PERMISSION_OVERVIEW": "Auction permission overview"
+  },
+
+  "PLATFORM": {
+    "OVERVIEW": "Overview",
+    "USERS_ROLES_MANAGEMENT": "User & role management",
+    "USERS": "Users",
+    "ROLES": "Roles",
+    "AUCTION_MANAGEMENT": "Auction (cluster) management",
+    "SUPPLIER_MANAGEMENT": "Supplier management",
+    "BUYER_MANAGEMENT": "Buyer management",
+    "REPORTING": "Reporting",
+    "PLATFORM_MANAGEMENT": "Platform management",
+    "CONFIGURATION_PARAMETERS": "Configuration parameters",
+    "PRODUCT_DEFINITION": "Product definition",
+    "LICENSING": "Licensing",
+    "PLATFORM_PERMISSION_OVERVIEW": "Platform permission overview"
+  },
+
+  "BUYER": {
+    "OVERVIEW": "Overview"
+  },
+
+  "SUPPLIER": {
+    "OVERVIEW": "Overview"
+  }
+}
